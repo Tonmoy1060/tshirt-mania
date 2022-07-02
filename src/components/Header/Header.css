@@ -1,0 +1,31 @@
+.nav{
+    background-color:rgb(0, 92, 153);
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.nav h1{
+    color:red;
+    margin-left: 30px;
+    background-color: rgb(225, 233, 247);
+    border-radius:30px;
+    padding: 10px 20px;
+    margin: 15px ;
+}
+.nav-text{
+    margin-right: 30px;
+}
+a{
+    text-align: right;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 40px;
+}
+a:hover{
+    color: red;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 20px;
+}
